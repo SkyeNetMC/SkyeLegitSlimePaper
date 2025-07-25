@@ -5,7 +5,7 @@
  
      private static final String BRAND_PAPER_NAME = "Paper";
 -    private static final String BRAND_ADVANCED_SLIME_PAPER_NAME = "AdvancedSlimePaper";
-+    private static final String BRAND_ADVANCED_SLIME_PAPER_NAME = "LegitSlimePaper";
++    private static final String BRAND_ADVANCED_SLIME_PAPER_NAME = "SkyeLegitSlimePaper";
  
      private static final String BUILD_DEV = "DEV";
  
